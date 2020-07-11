@@ -11,4 +11,5 @@ import { AuthModule } from './auth/auth.module';
     AuthModule
   ],
 })
+
 export class AppModule {}
